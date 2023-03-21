@@ -6,3 +6,5 @@ aaaaaa
 prueba
 
 compro oro
+compro plata
+
