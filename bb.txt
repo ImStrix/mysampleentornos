@@ -1,3 +1,4 @@
 bbb
 prueba
-tarea entornos
+modificacion en local: tarea entornos
+modificacion en remoto:mod
